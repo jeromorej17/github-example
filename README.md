@@ -11,3 +11,7 @@ Just fork the original repo at pragmaticlearning/github-example, make your chang
 Member Contribution
 ===================
 Add any content of your choice to the end of this file
+
+Contribution
+============
+Demonstrate merging feature branch changes into master branch
